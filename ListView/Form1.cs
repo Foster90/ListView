@@ -34,7 +34,7 @@ namespace ListView
             listView1.Items.Add(new ListViewItem(new[] { "John ", "1", "100" }));
             listView1.Items.Add(new ListViewItem(new[] { "Smith ", "2", "120" }));
             listView1.Items.Add(new ListViewItem(new[] { "Cait ", "3", "97" }));
-            listView1.Items.Add(new ListViewItem(new[] { "Irene", "4", "100" }));
+            listView1.Items.Add(new ListViewItem(new[] { "Irene", "4", "100" })); 
 
             listView1.GridLines = true;
 
