@@ -26,9 +26,9 @@ namespace ListView
 
 
             listView1.View = View.Details;
-            listView1.Columns.Add("Column1Name");
-            listView1.Columns.Add("Column2Name");
-            listView1.Columns.Add("Column3Name");
+            listView1.Columns.Add("Name");
+            listView1.Columns.Add("ID");
+            listView1.Columns.Add("Score");
 
             listView1.Items.Add(new ListViewItem(new[] { "John  ", "1", "100" }));
             listView1.Items.Add(new ListViewItem(new[] { "John ", "1", "100" }));
