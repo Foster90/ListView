@@ -65,7 +65,7 @@ namespace ListView
             }
 
             // Perform the sort with these new sort options.
-            this.listView1.Sort();
+            listView1.Sort();
         }
     }
 }
