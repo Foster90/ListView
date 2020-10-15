@@ -1,6 +1,6 @@
 # ListView
 
-Sencon Programming Exercises
+Programming Exercises
 
 Exercise 3:
 Create a separate class library project. Add a class to the project that inherits from ListView. The new list view should contain three columns one to show a string, 
